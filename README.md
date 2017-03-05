@@ -46,12 +46,12 @@ All files should be created within the `src` folder so the Babel plugin can proc
 
 **Important** :
 
-Create a new file named `constants.js` in the `src` folder: `src/constants.js`. Add the file to .gitignore before doing anything else.
+Create a new file named `constants.js` in the `src` folder: `src/constants.js`. Make sure `constants.js` is in .gitignore before doing anything else.
 
 ```
 // .gitignore
 
-src/constants/js
+src/constants.js
 
 ```
 Store the API token you received from Slack into a variable in `src/constants.js`, and export it.
