@@ -15,6 +15,7 @@ Make sure you have the latest Node and npm installed on your system. You can fin
 ```
 $ git clone https://github.com/TheBot-Lab/Chingu-BotLab-docBert.git my_folder
 $ npm install
+$ npm install -g eslint // install eslint globally
 $ eslint --init // feel free to skip this step if you want, then move on to section 2.
 ```
 If you skipped `eslint init`, go straight to Step 2. Otherwise, answer the eslint questions like so: 
