@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/constants.js"],"names":["API_TOKEN"],"mappings":";;;;;AAAO,IAAMA,gCAAY,4CAAlB","file":"constants.js","sourcesContent":["export const API_TOKEN = 'xoxb-149409244934-RBQczFCqtTWCmIHnXFoK0W8Y';\n"]}
