@@ -39,9 +39,11 @@ Docker for [Mac](https://docs.docker.com/docker-for-mac/install/#install-and-run
 
 Docker for [Linux](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04).
 
-Docker for [Windows](https://docs.docker.com/toolbox/toolbox_install_windows/). Install **Docker Toolbox** from the link. Docker for Windows has minimum requirements of Windows 7, 64-bit.
+Docker for [Windows 7/8](https://docs.docker.com/toolbox/toolbox_install_windows/). Install **Docker Toolbox** from the link. Docker for Windows has minimum requirements of Windows 7, 64-bit.
 
-**Notes for Windows (IMPORTANT)**
+Docker for [Windows 10](https://docs.docker.com/engine/getstarted/step_one/).
+
+**Notes for Windows 7/8 (IMPORTANT)**
 
 You will notice Docker-Toolbox installs 2 programs for you - Kitematic and Docker Quickstart.
 
